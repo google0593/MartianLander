@@ -64,19 +64,21 @@ There is also an indicator that when the fuel is empty the border turns to red.
 Other Extensions
 
 1.custom terrain   	-> (Mars Terrain) http://opengameart.org/content/dirty-burnt-and-light-sand	
-
 2.custom spaceship 	-> (Spaceship) http://millionthvector.blogspot.co.nz/p/free-sprites_12.html
-
 3.sprite animations 	-> (Main Explosion) http://www.appuntidigitali.it/site/wp-content/uploads/explosion-sprite.png
 		   	-> (Burning Wreckage) https://s-media-cache-ak0.pinimg.com/originals/fd/1c/31/fd1c31aed1e5de3f869c38b996baa792.jpg
-
 4.restart button
 
 Resources
 
 stackeroverflow.com
+
 online-audio-converter.com
+
 freesound.org
+
 opengameart.org
+
 YouTube.com
+
 Unitec Samples

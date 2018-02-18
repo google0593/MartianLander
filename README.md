@@ -1,11 +1,12 @@
-Martian Lander - Assignment 2
-
+**Martian Lander** - Assignment 2
 Min: SDK 22
+
+
 IDE: Android Studio 2.2
+
 Developed By: Nikolai Jucutan - 1419170
 
-===================================================================================================
-Design
+**Design**
 
 Gameplay - For this game i did not implement accelerometer because i think its awkward.
 The problem with the accelerometer is they're not precise, 
@@ -17,9 +18,7 @@ So when you hold a button (directions) the spaceship will go that way depending 
 The reason why the 'UP' button is on the left side of the screen, is so that the users can press 2 buttons at the same time.
 i.e. if the user want to go upper left or upper right. Restart is on top so users will not accidentally press the button.
 
-===================================================================================================
-
-Main Extensions
+**Main Extensions**
 
 1. Screen Resolution Friendly
 
@@ -59,17 +58,19 @@ of the default android one.
 Custom Made Fuel Gauge - Instead of numbers, i thought it would be more attractive if i use 'graphics' instead.
 There is also an indicator that when the fuel is empty the border turns to red.
 
-===================================================================================================
 
-Other Extensions
+**Other Extensions**
 
 1.custom terrain   	-> (Mars Terrain) http://opengameart.org/content/dirty-burnt-and-light-sand	
+
 2.custom spaceship 	-> (Spaceship) http://millionthvector.blogspot.co.nz/p/free-sprites_12.html
+
 3.sprite animations 	-> (Main Explosion) http://www.appuntidigitali.it/site/wp-content/uploads/explosion-sprite.png
 		   	-> (Burning Wreckage) https://s-media-cache-ak0.pinimg.com/originals/fd/1c/31/fd1c31aed1e5de3f869c38b996baa792.jpg
+
 4.restart button
 
-Resources
+**Resources**
 
 stackeroverflow.com
 
